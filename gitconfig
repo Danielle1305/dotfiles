@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = daniellemisaine@gmail.com
+	name = daniellemisaine
